@@ -1,3 +1,3 @@
 # Sales_Performance_Dashboard
 
-![Image](https://github.com/user-attachments/assets/a620f606-f6c2-4376-8495-f7896189067b)
+![Image](https://github.com/user-attachments/assets/e7bf4ced-b030-4126-9135-ca1ddcb51dc5)
