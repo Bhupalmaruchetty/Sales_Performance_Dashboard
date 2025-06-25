@@ -1,6 +1,6 @@
 📊 **Sales Performance Project** 
 
-This project focuses on analyzing key sales data using **Power BI**, **SQL**, and **Excel** to uncover trends, monitor KPIs and support data-driven decisions.
+This project focuses on analyzing key sales data using **Power BI** to uncover trends, monitor KPIs and support data-driven decisions.
 
 📌 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭 𝐁𝐫𝐢𝐞𝐟:
 
