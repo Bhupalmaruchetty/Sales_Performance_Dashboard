@@ -34,6 +34,7 @@ This project focuses on analyzing key sales data using **Power BI** to uncover t
 
 🧾𝐀𝐜𝐭𝐢𝐯𝐞 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐓𝐚𝐛𝐥𝐞: Displays only those customers who made purchases in the last 3 months, filtered by active status : helping narrow down valuable segments.
 
+
 💡 𝐖𝐡𝐚𝐭 𝐈 𝐋𝐞𝐚𝐫𝐧𝐞𝐝:
 
 ✅ Strategic filtering helps spotlight meaningful 𝐭𝐫𝐞𝐧𝐝𝐬 and 𝐭𝐨𝐩-𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 segments.
